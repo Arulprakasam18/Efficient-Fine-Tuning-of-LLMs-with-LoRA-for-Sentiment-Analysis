@@ -62,7 +62,7 @@ After training, use the fine-tuned model for sentiment classification:
 
 ## Model Predictions
 ### Before Training
-![Untrained Model Predictions](output_samples/untrained_model_predictions.png)
+![Untrained Model Predictions](outputsamples/untrained_model_predictions.png)
 
 ### After Training
 ![Trained Model Predictions](outputsamples/trained_model_predictions.png)
